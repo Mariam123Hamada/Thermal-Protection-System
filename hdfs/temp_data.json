@@ -1,0 +1,5 @@
+[
+  {"record_id": 1, "sensor_id": "SENSOR_001", "temperature": 25.5, "humidity": 65.2, "timestamp": "2026-04-27T23:08:00"},
+  {"record_id": 2, "sensor_id": "SENSOR_001", "temperature": 26.3, "humidity": 64.8, "timestamp": "2026-04-27T23:11:00"},
+  {"record_id": 3, "sensor_id": "SENSOR_001", "temperature": 27.1, "humidity": 63.5, "timestamp": "2026-04-27T23:14:00"}
+]
