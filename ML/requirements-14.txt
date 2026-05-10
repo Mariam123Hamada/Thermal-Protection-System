@@ -1,0 +1,17 @@
+# ============================================================
+#  Sensor Anomaly Detection Project — Python Dependencies
+# ============================================================
+
+# Core Spark (install via pip or use Spark distribution)
+pyspark==3.3.2
+
+# Kafka producer simulator
+kafka-python==2.0.2
+
+# ML-based anomaly detection (Isolation Forest)
+scikit-learn==1.3.2
+numpy==1.24.4
+pandas==2.0.3
+
+# Utilities
+python-dateutil==2.8.2
